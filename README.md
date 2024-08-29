@@ -1,5 +1,7 @@
-## Hey! I'm Jane👋
+# Hi! I'm Jane, a Purdue University CS freshman from Chicago.
 
-## I'm a freshman at Purdue University studying Computer Science and Political Science! I hope to work in technology policy in the future, creating ethical and just future for software. 
-## I use she/her pronouns!
-## In my free time I enjoy rollerskating, reading, and playing video games.
+### I'm most experienced in Java, C++, and Python.
+### I'm currently learning full-stack web development through the Odin Project.
+### I also love to do projects with Arduinos and other microcontrollers.
+-   I'll upload some of my projects eventually lol.
+I'm double majoring 
